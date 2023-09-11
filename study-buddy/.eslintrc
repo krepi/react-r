@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "react-app",
+    "react-app/jest"
+  ],
+  "env": {
+    "browser": true, // Przeglądarka
+    "node": true, // Node.js
+    "es6": true // ES6
+
+  },
+  "parser": "@babel/eslint-parser"
+}
