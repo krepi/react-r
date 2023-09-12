@@ -1,13 +1,20 @@
 {
   "extends": [
     "react-app",
-    "react-app/jest"
+    "react-app/jest",
+    "plugin:prettier/recommended",
+    "prettier"
   ],
   "env": {
     "browser": true, // Przeglądarka
     "node": true, // Node.js
     "es6": true // ES6
 
+  },
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": ["error", {"singleQuote": true}],
+    "import/first": 0
   },
   "parser": "@babel/eslint-parser"
 }
