@@ -17,7 +17,7 @@ const Wrapper = styled.li`
   }
 `;
 
-const UsersListItem = ({ userData: { average, name, attendance = '0%w' } }) => (
+const UsersListItem = ({ userData: { average, name, attendance = '0%' } }) => (
   <Wrapper>
     <div>{average}</div>
     <div>
