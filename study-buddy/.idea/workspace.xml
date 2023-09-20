@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fbdcb27-9012-475d-a1a9-96da2d76aedb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UsersList/UserList.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UsersListItem/UsersListItems.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/delete-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/GlobalStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/Button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/molecules/UsersListItem/UsersListItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UsersList/UsersList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UsersList/UsersList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UsersList/UsersList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/UsersList/UsersList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UsersListItem/UsersListItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Root.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +56,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\KURSY_DO_SKOŃCZENIA\react-r\study-buddy\src\components\molecules" />
+      <recent name="E:\KURSY_DO_SKOŃCZENIA\react-r\study-buddy\src\components\organisms" />
+      <recent name="E:\KURSY_DO_SKOŃCZENIA\react-r\study-buddy\src\components" />
+      <recent name="E:\KURSY_DO_SKOŃCZENIA\react-r\study-buddy\src\assets\icons" />
       <recent name="E:\KURSY_DO_SKOŃCZENIA\react-r\study-buddy\src\views" />
-      <recent name="E:\KURSY_DO_SKOŃCZENIA\react-r\study-buddy\src\assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,6 +78,7 @@
       <workItem from="1694528500370" duration="1502000" />
       <workItem from="1694534930418" duration="1466000" />
       <workItem from="1694626818225" duration="1192000" />
+      <workItem from="1694799706482" duration="3750000" />
     </task>
     <servers />
   </component>
